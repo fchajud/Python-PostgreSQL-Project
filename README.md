@@ -3,11 +3,11 @@
 
 ## Installation
 ### 1. Clone the repository:
-´´´
+```
 git clone https://github.com/fchajud/Python-PostgreSQL-Project
 cd Python-PostgreSQL-Project
 pip install -r requirements.txt
-´´´
+```
 
 ### 2. Local database creation:
 You have to run the postgreSQL query, inside 'db_script.sql', on pgAdmin4
@@ -22,6 +22,6 @@ Run the 'main.py' file
 
 or
 
-´´´
+```
 python main.py
-´´´
+```
